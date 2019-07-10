@@ -1,10 +1,10 @@
 # Program
 
-Program allows the user to generate math examples to be solved. Output of it is as following:
+Program allows the user to generate math examples that are yet to be solved. Its output is as follows:
 
 1. File **приклади.txt** contains unsolved generated examples
 
-2. File **відповіді** consists of the same examples *but with correspond answers* (kinda lazy I know).
+2. File **відповіді.txt** consists of the same examples *but with correspond answers* to check match sister's results (kinda lazy I know).
 
 ## Usage
 
