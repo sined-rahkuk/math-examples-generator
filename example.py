@@ -77,8 +77,8 @@ def main():
                     operation_char='x')
             for i in range(INPUT_AMOUNT or DEFAULT_DIV_AMOUNT)]
 
-    with open('приклади.txt', 'w',  encoding='utf-8') as unsolved:
-        with open('відповіді.txt', 'w', encoding='utf-8') as solved:
+    with open('primery.txt', 'w',  encoding='utf-8') as unsolved:
+        with open('otvety.txt', 'w', encoding='utf-8') as solved:
 
             unsolved.write('Приклади:\n\n')
             solved.write('Відповіді на приклади:\n\n')

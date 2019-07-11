@@ -1,1 +1,1 @@
-notepad /P приклади.txt & notepad /P відповіді.txt
+notepad /P "primery.txt" & notepad /P "otvety.txt"

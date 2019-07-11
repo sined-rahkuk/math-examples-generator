@@ -2,9 +2,15 @@
 
 Program allows the user to generate math examples that are yet to be solved. Its output is as follows:
 
-1. File **приклади.txt** contains unsolved generated examples
+1. File **primery.txt** contains unsolved generated examples
 
-2. File **відповіді.txt** consists of the same examples *but with correspond answers* to check match sister's results (kinda lazy I know).
+2. File **otvety.txt** consists of the same examples *but with correspond answers* to check match sister's results (kinda lazy I know).
+
+## Quick Start
+
+There are 2 bat files showing real-life examples of using this tool. Refer to them if ***Usage*** section is not enough.
+
+Also, with the `print.bat` file you can print out generated output txt-s.
 
 ## Usage
 
