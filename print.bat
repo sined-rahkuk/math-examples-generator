@@ -1,0 +1,1 @@
+notepad /P приклади.txt & notepad /P відповіді.txt
